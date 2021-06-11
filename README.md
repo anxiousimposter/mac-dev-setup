@@ -30,10 +30,13 @@ First thing you need to do, on any OS actually, is update the system! For that: 
 
 ## System preferences
 
-If this is a new computer, there are a couple of tweaks I like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
+The following are my personal preferences for system behavior. Feel free to copy, modify, or ignore any of the steps below to suit your own preferences.
 
 In **Apple Icon > System Preferences**:
 
+- General > Appearance > Auto
+- General > Sidebar Icon Size > Small
+- General > Recent items > None
 - Trackpad > Tap to click
 - Keyboard > Key Repeat > Fast (all the way to the right)
 - Keyboard > Delay Until Repeat > Short (all the way to the right)
